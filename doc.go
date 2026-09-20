@@ -1,2 +1,2 @@
-// Package wal 是空的起步。
+// Package wal provides a crash-safe, segmented write-ahead log.
 package wal
